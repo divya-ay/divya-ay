@@ -16,12 +16,12 @@ I'm a computer science student graduating soon and currently learning through pr
 A Django-based quiz platform where users can attempt quizzes and track scores interactively.
 
 ###  Water Sampler Management System
-A collaborative academic project designed to manage and organize water sample records efficiently.
+A collaborative academic project designed to manage and organize water sample records efficiently for Aguas do Norte.
 
 ### Inventory Management System
 An inventory tracking application developed to manage stock records and item updates.
 
-### Price Prediction Project
+### Netflix Stock Closing Price Prediction
 A beginner machine learning project focused on price prediction using regression techniques.
 
 ---
